@@ -252,10 +252,7 @@ void delete_at_before_value(int value){
 	
 }
 int main(){
-	insert_at_end();
-	insert_at_end();
-	insert_at_end();
-delete_at_before_value(20);
+	
 
 display();
 	
